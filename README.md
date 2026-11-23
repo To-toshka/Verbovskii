@@ -7,11 +7,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Как учиться с ИИ и строить план обучения? #shorts](https://www.youtube.com/shorts/pMttEiN334k)
 - [Почему баг не воспроизводится?](https://www.youtube.com/shorts/XbLDBIthQTU)
 - [Арти не дает ответ. Чем он тогда поможет? #shorts](https://www.youtube.com/shorts/ZwZThvUh7J0)
 - [POST вернул 500, а заказ создался](https://www.youtube.com/shorts/u228oSdFmJE)
 - [Я ушел из найма и больше не тестировщик? #shorts](https://www.youtube.com/shorts/BalghAy7vrM)
-- [Зачем своя платформа, если есть Stepik? #shorts](https://www.youtube.com/shorts/NpQduxhcnN0)
 <!-- YOUTUBE:END -->
 
 ### Language and Tools
